@@ -1,0 +1,20 @@
+-HTML
+	Title Change
+	Create Header element
+	h1 element
+	Img sourcing / mouseover text for img
+	Unordered List
+	Footer
+	p element
+	
+-CSS
+	background color
+	header/footer color
+	center text of element
+	text color change and italic (font style)
+	Image border
+	Font family change
+
+-Java
+	console.log()
+	Sourcing .js file into .html file
