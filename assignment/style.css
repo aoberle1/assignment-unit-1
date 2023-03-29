@@ -3,11 +3,21 @@ body {
     background-color: paleturquoise;
 }
 /* Make the header and footer a different color from the background */
-
+header {
+    background-color: royalblue;
+}
+footer {
+    background-color: blueviolet;
+}
 /* Align the h1 containing your name in the center of the header*/
-
+h1 {
+    text-align: center;
+}
 /* Make your p tag a different color and italic */
-
+p {
+    color: whitesmoke;
+    font-style: italic;
+}
 /* Put a border around your image */
 
 /* Change the font-family of your list */
