@@ -17,6 +17,7 @@ h1 {
 p {
     color: whitesmoke;
     font-style: italic;
+    font-size: 105%;
 }
 /* Put a border around your image */
 img {
